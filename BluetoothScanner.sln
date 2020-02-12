@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "BluetoothScanner", "BluetoothScanner\BluetoothScanner.shproj", "{724861DA-8862-4BAC-A36E-2C16F47BF383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothScanner.iOS", "iOS\BluetoothScanner.iOS.csproj", "{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}.Release|iPhone.Build.0 = Release|iPhone
+		{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2B3E0AC3-8721-4BBF-9DD6-FBE78F82F6D5}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
